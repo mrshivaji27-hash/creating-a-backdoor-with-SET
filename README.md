@@ -70,7 +70,7 @@ SET starts my Kali Linux Webserver on port 80, with the fake Google account logi
 In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address), the fake Google page is displayed. The victim can enter the username and password
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot 2026-02-13 092053" src="https://github.com/user-attachments/assets/e6f98281-33d8-41d2-a8c1-99a98f8d924a" />
+<img width
 
 SET logs the information regarding the Google credentials:
 ## OUTPUT
